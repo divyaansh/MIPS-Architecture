@@ -1,0 +1,183 @@
+m255
+K3
+13
+Z0 cModel Technology
+Z1 dC:\Program Files (x86)\Modeltech_6.3f\examples
+T_opt
+Z2 VjmEG9=ccaJA6Q0eQE]o]V1
+Z3 04 9 4 work testbench fast 0
+Z4 =1-ac7289d34f29-5287051a-37b-1714
+Z5 o-quiet -auto_acc_if_foreign -work work
+Z6 tExplicit 1
+Z7 OE;O;6.3f;37
+T_opt1
+Z8 V[2PCF>IVzA>=PASVhFO6V3
+Z9 04 14 4 work tb_8bit2to1mux fast 0
+Z10 =1-ac7289d34f29-52872320-373-1d74
+R5
+R6
+R7
+T_opt2
+Z11 V3UiE7jY6>cZgj=k]CO4gi3
+Z12 04 5 4 work tbALU fast 0
+Z13 =1-ac7289d34f29-528734a8-1bf-15ec
+R5
+R6
+R7
+valu
+Z14 IJ1:gn<C7jiNHZeaLMBf6h3
+Z15 V;l:H4>45AdJo=illbYK_W1
+Z16 dE:\Dropbox\Google Drive\Insti\3-1\CompArch\Lab
+Z17 w1384592544
+Z18 8E:/Dropbox/Google Drive/Insti/3-1/CompArch/Lab/ALU.v
+Z19 FE:/Dropbox/Google Drive/Insti/3-1/CompArch/Lab/ALU.v
+L0 35
+Z20 OE;L;6.3f;37
+r1
+31
+Z21 o-work work -nocovercells -L mtiAvm
+!s85 0
+vand32b
+Z22 I9gA@4kCW^Pa8`C096<oj40
+Z23 VVmfQ`mk2FJWDKF:9DzXiE2
+R16
+R17
+R18
+R19
+L0 15
+R20
+r1
+31
+R21
+!s85 0
+vfa32b
+Z24 IfD@E7nV@?<<DX@V5CQJUG1
+Z25 V?nQSz2VL9@CMMVkhefNJ<3
+R16
+R17
+R18
+R19
+L0 27
+R20
+r1
+31
+R21
+!s85 0
+vfulladder1b
+Z26 I]ThP`QFn:C=m2CB<BRS?T3
+Z27 V]@cQRZfPJI;^aPe@19D512
+R16
+Z28 w1384580365
+Z29 8E:/Dropbox/Google Drive/Insti/3-1/CompArch/Lab/Adder.v
+Z30 FE:/Dropbox/Google Drive/Insti/3-1/CompArch/Lab/Adder.v
+L0 8
+R20
+r1
+31
+R21
+!s85 0
+vfulladder4b
+Z31 I@oTbB<BX?R@26>bABd1bP2
+Z32 Vo14n1@HBloR4JNja0;9Nk3
+R16
+R28
+R29
+R30
+L0 17
+R20
+r1
+31
+R21
+!s85 0
+vhalfadder1b
+Z33 I<WYeckmlJ><]]LPz0Vz5z0
+Z34 Vg?dW7=KIL@S>hMRA^0C;j0
+R16
+R28
+R29
+R30
+L0 1
+R20
+r1
+31
+R21
+!s85 0
+vmux2to1
+Z35 IA?13^c=3;3EKOOW8=9<`61
+Z36 V5]AM>V4K>bz5]bVzcA1lN0
+R16
+R17
+R18
+R19
+L0 1
+R20
+r1
+31
+R21
+!s85 0
+vmux3to1
+Z37 IS2_=6KP]mBiDa7^PkIN7o2
+Z38 VR6Ch`FIC064DGC68J@35P0
+R16
+R17
+R18
+R19
+L0 8
+R20
+r1
+31
+R21
+!s85 0
+vor32b
+Z39 I0EM<bfXKNElL_K4gBdeF=0
+Z40 VlY2`f8=glHgz`6V5EMKI80
+R16
+R17
+R18
+R19
+L0 21
+R20
+r1
+31
+R21
+!s85 0
+vtb_8bit2to1mux
+Z41 IU@AS4>dWA[bR=^=[8idGZ0
+Z42 V1JZ^@5Fj2Ki=`GM6KoD330
+R16
+R17
+R18
+R19
+L0 50
+R20
+r1
+31
+R21
+!s85 0
+vtbALU
+Z43 IQYK61L0Zz;j`Im<52`OZ=1
+Z44 V7_zAdzObO4];C=:F0UMbR3
+R16
+R17
+R18
+R19
+L0 66
+R20
+r1
+31
+R21
+Z45 ntb@a@l@u
+!s85 0
+vtestbench
+Z46 Ia]jJ[@O^_Ei;P5P;_ZZ<42
+Z47 VhGfW:390DM[oDMzegDH9`2
+R16
+R28
+R29
+R30
+L0 29
+R20
+r1
+31
+R21
+!s85 0

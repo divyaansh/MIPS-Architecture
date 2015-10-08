@@ -1,0 +1,26 @@
+{E:/Dropbox/Google Drive/Insti/3-1/CompArch/Lab/Adder.v} {1 {vlog -work work -vopt -nocovercells {E:/Dropbox/Google Drive/Insti/3-1/CompArch/Lab/Adder.v}
+Model Technology ModelSim SE vlog 6.3f Compiler 2008.02 Feb 28 2008
+-- Compiling module halfadder1b
+-- Compiling module fulladder1b
+-- Compiling module fulladder4b
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} {E:/Dropbox/Google Drive/Insti/3-1/CompArch/Lab/ALU.v} {1 {vlog -work work -vopt -nocovercells {E:/Dropbox/Google Drive/Insti/3-1/CompArch/Lab/ALU.v}
+Model Technology ModelSim SE vlog 6.3f Compiler 2008.02 Feb 28 2008
+-- Compiling module mux2to1
+-- Compiling module mux3to1
+-- Compiling module and32b
+-- Compiling module or32b
+-- Compiling module fa32b
+-- Compiling module alu
+-- Compiling module tb_8bit2to1mux
+-- Compiling module tbALU
+
+Top level modules:
+	tb_8bit2to1mux
+	tbALU
+
+} {} {}}
